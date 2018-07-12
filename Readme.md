@@ -7,8 +7,12 @@ Write a console program that displays a month calendar (use only pure Ruby). The
 4. Monday is considered as the first day of the week.
 5. The short names (abbreviations) of days of the week to be displayed in the first row (header).
 6. Last dates of the previous month and first dates of the next month should not be displayed.
-7. The columns of the weekend to be printed with a different color.
-8. Also, the current date should be printed using one more color in case the current month is displayed.\
+7. The columns of the weekend to be printed with a different color.(_**NOT IMPLEMENTED**_)
+8. Also, the current date should be printed using one more color in case the current month is displayed. (_**NOT IMPLEMENTED**_)\
 Consider the following requirements please:\
 •  Try to keep the code that prints a calendar to text terminal separated from the rest of the code base.\
 •  Push intermediate results to GitHub repository.
+
+**Usage** - run the "run.rb" file
+
+Steps **6** and **7** are marked as : _**NOT IMPLEMENTED**_
